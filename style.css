@@ -13,7 +13,7 @@
 }
 .buy-button{
     background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
-    border-radius: 10px;
+    border-radius: 7px;
     border-style: none;
     color: #fff;
     padding: 5px 22px;
@@ -35,4 +35,22 @@
 }
 .categories img{
     height: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 7px 7px 10px rgb(146, 144, 144);
+}
+.card-footer{
+    border: none;
+}
+#contact{
+    height: 300px;
+}
+#contact h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+    margin-bottom: 12px;
 }
